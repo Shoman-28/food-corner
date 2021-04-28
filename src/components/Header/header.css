@@ -1,0 +1,22 @@
+
+.header-name{
+    font-size: 30px;
+    font-weight: 500;
+    color: #dadada;
+    text-decoration: none;
+}
+.header-name:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.nav-item{
+    font-size: 17px;
+    padding: 0px 15px;
+    
+
+    color: #dadada;
+}
+.nav-item:hover{
+    color: #fff;
+    text-decoration: none;
+}

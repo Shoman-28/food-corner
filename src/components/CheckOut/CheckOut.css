@@ -1,0 +1,17 @@
+.header{
+    font-size: 20px;
+    text-align: center;
+    
+}
+.header-eliment{
+    font-size: 20px;
+    color: gray;
+}
+.table-body{
+    
+    font-size: 15px;
+    font-weight: 600;
+}
+.product-details{
+    text-align: center;
+}

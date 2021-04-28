@@ -1,0 +1,28 @@
+.manage-product{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+.manage-product-title{
+    background-color: #c3c0c082;
+}
+.manage-product-name{
+    
+    width: 40vh;
+}
+.manage-product-quantity{
+    width: 40vh;
+    text-align: center;
+}
+.manage-product-price{
+    width: 40vh;
+}
+.manage-product-delete{
+    width: 40vh;
+}
+.title-eliment{
+    color: #808283;
+    width: 40vh;
+    
+}

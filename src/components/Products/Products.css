@@ -1,0 +1,24 @@
+.products{
+    display: flex;
+    flex-wrap: wrap;
+}
+.product-items{
+    border-radius: 10px; 
+}
+.product-img{
+    padding: 5px;
+    width: 285px;
+    height: 190px;
+    overflow: hidden;
+    border-radius: 10px;   
+}
+.price{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(120, 183, 224);
+}
+.product-name{
+    font-size: 30px;
+    font-size: 400;
+    color: #5656fa;
+}
